@@ -9,6 +9,7 @@ function App() {
     <div className="App">
       <EventSearch setSearchTerm={setSearchTerm} />
       <EventsList searchTerm={searchTerm} />
+      {/* <AllEvents /> */}
     </div>
   );
 }
