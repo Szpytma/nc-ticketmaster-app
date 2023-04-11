@@ -1,0 +1,11 @@
+.DatePicker label {
+  font-weight: bold;
+  margin-right: 10px;
+  color: #ccc;
+}
+
+.DatePicker input[type="date"] {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
