@@ -1,0 +1,19 @@
+.Event {
+  display: inline-block;
+  grid-auto-flow: column;
+  gap: 4px;
+  align-items: center;
+  justify-items: center;
+  width: 50%;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  border: 2px solid black;
+  margin: 10px;
+}
+
+h2 {
+  text-decoration: solid;
+  background-color: aquamarine;
+}
+img {
+  width: 85%;
+}
